@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://akkistudyxpro-44094a367971.herokuapp.com/api/:path*" },
+    { "source": "/pw/:path*", "destination": "https://akkistudyxpro-44094a367971.herokuapp.com/pw/:path*" }
+  ]
+}
